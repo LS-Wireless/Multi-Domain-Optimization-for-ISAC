@@ -161,10 +161,11 @@ University of California Irvine, CA 92697, USA
 For questions, suggestions, or collaboration inquiries:
 - **Email**: rangl2@uci.edu
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 The authors would like to thank the reviewers for their valuable comments and suggestions. This work was supported in part by xxx.
 
 ---
 *Last updated: September 28, 2025*
+
  
